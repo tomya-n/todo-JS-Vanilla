@@ -4,8 +4,6 @@
 const input = document.getElementById('input_text');
 const submit = document.getElementById('submit');
 const items = document.getElementById('items');
-// const item =  document.getElementsByClassName('item');
-
 
 
 //データ保管
